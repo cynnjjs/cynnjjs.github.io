@@ -20,9 +20,8 @@ Education
 Publications
 ======
 * Self-training Avoids Using Spurious Features Under Domain Shift
-  * **Yining Chen**<sup>\*</sup>, Colin Wei<sup>\*</sup>, Ananya Kumar, Tengyu Ma
+  * **Yining Chen**<sup>\*</sup>, Colin Wei<sup>\*</sup> (\* equal contribution), Ananya Kumar, Tengyu Ma
   * Manuscript [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
-  * \*: Equal contribution
 
 * Active Online Domain Adaptation
   * **Yining Chen**, Haipeng Luo, Tengyu Ma, Chicheng Zhang
