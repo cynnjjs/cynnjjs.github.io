@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+======
 Education
 ======
 * Ph.D in Computer Science, Stanford University, Sept 2018 -
@@ -17,11 +17,36 @@ Education
   * Thesis: [Time-space Tradeoffs for the Memory Game](http://cynnjjs.github.io/files/ugrad-thesis-time-space-TR.pdf)
   * Advisor: [Amit Chakrabarti](https://www.cs.dartmouth.edu/~ac/)
 
+======
 Publications
 ======
-    <ul>{% for post in site.publications %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
+* Self-training Avoids Using Spurious Features Under Domain Shift
+ * **Yining Chen***, Colin Wei*, Ananya Kumar, Tengyu Ma
+ * Manuscript [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
+
+* Active Online Domain Adaptation
+ * **Yining Chen**, Haipeng Luo, Tengyu Ma, Chicheng Zhang
+ * ICML 2020 Workshops on Continual Learning, Lifelong Learning, and Real World Experiment Design and Active Learning [arXiv:2006.14481](https://arxiv.org/abs/2006.14481)
+
+* Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization
+  * Kaidi Cao, **Yining Chen**, Junwei Lu, Nikos Arechiga, Adrien Gaidon, Tengyu Ma
+  * ICML 2020 Workshop on Extreme Classification [arXiv:2006.15766](https://arxiv.org/abs/2006.15766)
+
+* Weakly Supervised Disentanglement with Guarantees
+  * Rui Shu, **Yining Chen**, Abhishek Kumar, Stefano Ermon, Ben Poole
+  * ICLR 2020 [arXiv:1910.09772](https://arxiv.org/abs/1910.09772)
+
+* Recurrent Neural Networks as Weighted Language Recognizers
+  * **Yining Chen**, Sorcha Gilroy, Andreas Maletti, Jonathan May, Kevin Knight
+  * Conference of the North American Chapter of the Association of Computational Linguistics (NAACL) 2018, **Outstanding Paper Award** [arXiv:1711.05408](https://arxiv.org/abs/1711.05408)
+
+* k-Survivability: Diversity and Survival of Expendable Robots
+  * Yu-Han Lyu, **Yining Chen**, Devin Balkcom
+  * IEEE Robotics and Automation Letters 2016
+
+* Right‐hand Polarized 4fce Auroral Roar Emissions: 1. Observations
+  * J. LaBelle, **Yining Chen**
+  * Journal of Geophysical Research: Space Physics 2016
 
 Awards
 ======
