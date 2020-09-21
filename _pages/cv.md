@@ -13,14 +13,14 @@ Education
 ======
 * Ph.D in Computer Science, Stanford University, Sept 2018 -
 
-* B.S. in Computer Science and Philosophy, Dartmouth College, 2018
+* B.S. in Computer Science and Philosophy, *summa cum laude*, Dartmouth College, 2014 - 2018
   * Thesis: [Time-space Tradeoffs for the Memory Game](http://cynnjjs.github.io/files/ugrad-thesis-time-space-TR.pdf)
   * Advisor: [Amit Chakrabarti](https://www.cs.dartmouth.edu/~ac/)
 
 Publications
 ======
 * Self-training Avoids Using Spurious Features Under Domain Shift
-  * **Yining Chen**<sup>\*</sup>, Colin Wei<sup>\*</sup> (\* equal contribution), Ananya Kumar, Tengyu Ma
+  * **Yining Chen**\*, Colin Wei\* (equal contribution), Ananya Kumar, Tengyu Ma
   * Manuscript [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
 
 * Active Online Domain Adaptation
