@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+
 Education
 ======
 * Ph.D in Computer Science, Stanford University, Sept 2018 -
@@ -17,16 +17,16 @@ Education
   * Thesis: [Time-space Tradeoffs for the Memory Game](http://cynnjjs.github.io/files/ugrad-thesis-time-space-TR.pdf)
   * Advisor: [Amit Chakrabarti](https://www.cs.dartmouth.edu/~ac/)
 
-======
 Publications
 ======
 * Self-training Avoids Using Spurious Features Under Domain Shift
- * **Yining Chen***, Colin Wei*, Ananya Kumar, Tengyu Ma
- * Manuscript [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
+  * **Yining Chen**<sup>\*</sup>, Colin Wei<sup>\*</sup>, Ananya Kumar, Tengyu Ma
+  * Manuscript [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
+  * \*: Equal contribution
 
 * Active Online Domain Adaptation
- * **Yining Chen**, Haipeng Luo, Tengyu Ma, Chicheng Zhang
- * ICML 2020 Workshops on Continual Learning, Lifelong Learning, and Real World Experiment Design and Active Learning [arXiv:2006.14481](https://arxiv.org/abs/2006.14481)
+  * **Yining Chen**, Haipeng Luo, Tengyu Ma, Chicheng Zhang
+  * ICML 2020 Workshops on Continual Learning, Lifelong Learning, and Real World Experiment Design and Active Learning [arXiv:2006.14481](https://arxiv.org/abs/2006.14481)
 
 * Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization
   * Kaidi Cao, **Yining Chen**, Junwei Lu, Nikos Arechiga, Adrien Gaidon, Tengyu Ma
