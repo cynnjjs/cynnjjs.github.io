@@ -21,7 +21,7 @@ Publications
 ======
 * Self-training Avoids Using Spurious Features Under Domain Shift
   * **Yining Chen**\*, Colin Wei\* (equal contribution), Ananya Kumar, Tengyu Ma
-  * Manuscript [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
+  * NeuRIPS 2020 [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
 
 * Active Online Domain Adaptation
   * **Yining Chen**, Haipeng Luo, Tengyu Ma, Chicheng Zhang
