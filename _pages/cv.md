@@ -19,9 +19,9 @@ Education
 
 Publications
 ======
-* Self-training Avoids Using Spurious Features Under Domain Shift
-  * **Yining Chen**\*, Colin Wei\* (equal contribution), Ananya Kumar, Tengyu Ma
-  * NeuRIPS 2020 [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
+* Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data
+  * Colin Wei, Kendrick Shen, **Yining Chen**, Tengyu Ma
+  * Manuscript [arXiv:2010.03622](https://arxiv.org/abs/2010.03622)
 
 * Active Online Domain Adaptation
   * **Yining Chen**, Haipeng Luo, Tengyu Ma, Chicheng Zhang
@@ -30,6 +30,10 @@ Publications
 * Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization
   * Kaidi Cao, **Yining Chen**, Junwei Lu, Nikos Arechiga, Adrien Gaidon, Tengyu Ma
   * ICML 2020 Workshop on Extreme Classification [arXiv:2006.15766](https://arxiv.org/abs/2006.15766)
+
+* Self-training Avoids Using Spurious Features Under Domain Shift
+  * **Yining Chen**\*, Colin Wei\* (equal contribution), Ananya Kumar, Tengyu Ma
+  * NeuRIPS 2020 [arXiv:2006.10032](https://arxiv.org/abs/2006.10032)
 
 * Weakly Supervised Disentanglement with Guarantees
   * Rui Shu, **Yining Chen**, Abhishek Kumar, Stefano Ermon, Ben Poole
